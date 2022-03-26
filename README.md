@@ -1,7 +1,7 @@
 ### Hi, I'm Adrià👋💻
 
 ```js
-const Adria = {
+const AdriaLearning = {
   code: [Java, JavaScript, HTML, CSS],
   tools: [Eclipse, VisualStudio]
 }
