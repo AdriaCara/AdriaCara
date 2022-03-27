@@ -10,5 +10,5 @@ const AdriaLearning = {
 
 
 ## You can find me 🌍:
-  - [Mastodon](https://mastodon.social/invite/9GRBvJtZ)
+  - [Mastodon](https://mastodon.social/web/@adriaProgrammer#)
   - [Dtube](https://d.tube/c/adriacara20)
