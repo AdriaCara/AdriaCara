@@ -1,6 +1,5 @@
 ### Hi, I'm Adrià👋💻
-
-![IME]()
+![I'm Arià Cara](https://user-images.githubusercontent.com/102422401/160291874-a5cd1553-6324-49fd-8b27-6fd78a2e4135.png)
 
 ```js
 const AdriaLearning = {
