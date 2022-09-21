@@ -8,8 +8,3 @@ const AdriaLearning = {
   tools: [Eclipse, VisualStudio]
 }
 ```
-
-
-## You can find me 🌍:
-  - [Mastodon](https://mastodon.social/web/@adriaProgrammer#)
-  - [Dtube](https://d.tube/c/adriacara20)
