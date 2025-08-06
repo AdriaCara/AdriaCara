@@ -1,5 +1,5 @@
 ### Hi, I'm Adrià👋💻
-![I'm Arià Cara]
+[I'm Arià Cara]
 
 ```js
 const AdriaLearning = {
